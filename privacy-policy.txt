@@ -1,0 +1,10 @@
+
+
+	Qustom Unit Converter Privacy Policy
+
+Qustom Unit Converter is a quick customizable unit converter.
+
+This app does not collect nor transmit any private data.
+
+All computations and customized data are stored in the app's
+private scoped storage.
